@@ -4,7 +4,7 @@ A Flutter application that displays a list of posts.
 
 Here’s a preview of the application:
 
-![Screenshot](screenshot.gif)
+![Screenshot](https://github.com/shahrirosm/test-graduan/blob/main/screenshot/screenshot.gif)
 
 ## Getting Started
 
